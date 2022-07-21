@@ -38,6 +38,11 @@
           "settings": {
           }
         },
+        "0111e238-af0e-46dd-b3b0-65c3a94d2351": {
+          "type": "shopify:\/\/apps\/infinite-options\/blocks\/app-block\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
+          "settings": {
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -90,11 +95,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "0111e238-af0e-46dd-b3b0-65c3a94d2351": {
-          "type": "shopify:\/\/apps\/infinite-options\/blocks\/app-block\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
-          "settings": {
-          }
         }
       },
       "block_order": [
@@ -104,14 +104,14 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "0111e238-af0e-46dd-b3b0-65c3a94d2351",
         "buy_buttons",
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share",
-        "0111e238-af0e-46dd-b3b0-65c3a94d2351"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
